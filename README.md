@@ -1,9 +1,9 @@
 # exercice
 exercice repo
 
-changment fait en ligne
+changement fait en ligne
 
-kkkk
+changement fait en RStudio
 
 Bonjour
 
